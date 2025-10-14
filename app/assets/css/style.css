@@ -93,7 +93,7 @@ button {
 }
 
 .slide-1 {
-    background: #B4D1E0 url('..//images/slide-image-1.png') no-repeat top right 30%;
+    background: #B4D1E0 url('/images/slide-image-1.png') no-repeat top right 30%;
 }
 
 .slide-2 {
