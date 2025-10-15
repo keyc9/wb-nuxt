@@ -519,6 +519,10 @@ button {
     border-bottom-left-radius: 0;
 }
 
+.hidden {
+    display: none;
+}
+
 
 @media (max-width: 1200px) {
     .slide-1 {
